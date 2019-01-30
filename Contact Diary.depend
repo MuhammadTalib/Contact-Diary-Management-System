@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1513252964 source:e:\talib\contact diary\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+
